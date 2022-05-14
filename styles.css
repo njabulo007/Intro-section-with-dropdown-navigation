@@ -1,0 +1,19 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+#login_register_div{
+    width: 700px ;
+}
+
+#main{
+    height: 95vh;
+}
+
+
+
+
+#hero_img{
+    height: 870px;
+    width: 600px;
+
+}
